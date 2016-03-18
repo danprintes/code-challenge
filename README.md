@@ -12,7 +12,7 @@ Este desafio tem o intuito de entender a forma como você pensa para resolver os
 
 ## Sobre o desafio
 
-Dependendo da sua experiência e/ou das ferramentas escolhidas, você pode precisar de mais ou menos tempo para realizar o desafio.
+Dependendo da sua experiência e/ou das ferramentas escolhidas, você pode precisar de mais ou de menos tempo para realizar o desafio.
 
 Para isso, vamos fornecer para você alguns dados. Neste [json](properties.json) você encontra milhares de imóveis listados com a seguinte estrutura:
 
