@@ -41,7 +41,7 @@ Esses imóveis são representados no mapa de Spotippos da seguinte forma:
 
 Em Spotippos temos as seguintes regras:
 
-1. A área total de Spotippos é definida da seguinte forma `0 <= x <= 1400` e `0 <= y <= 1000`.
+1. A área total de Spotippos é definida da seguinte forma `0 <= x <= 1400` e `0 <= y <= 1000`, e a delimitação de suas províncias são encontradas neste [json](provinces.json).
 2. Um imóvel em Spotippos tem as seguintes características:
   - No máximo 5 quartos (beds), e no mínimo 1
   - No máximo 4 banheiros (baths), e no mínimo 1
@@ -98,9 +98,9 @@ Response:
 
 ### 3. Busque imóveis em Spotippos :D
 
-A partir de um retangulo representado pelos pontos A e B, onde A é o ponto superior esquerdo e B é o ponto inferior direito.
+Dado um retângulo representado pelos pontos A e B, onde A é o ponto superior esquerdo e B é o ponto inferior direito, queremos saber quais imóveis estão contidos nessa área. Cada ponto é representado pelas cordenadas `x` e `y`. O ponto A é representado por `ax` e `ay` e B por `bx` e `by`. 
 
-Cada ponto é representado pelas cordenadas `x` e `y`. O ponto A é representado por `ax` e `ay` e B por `bx` e `by`, sendo assim a estrutura da url deve ser a seguinte:
+Sendo assim, a estrutura da url de requisição para esta busca que esperamos deve seguir o formato:
 
 Request:
 ```
@@ -119,7 +119,8 @@ Response:
       "y": 333,
       "beds": 4,
       "baths": 3,
-      "squareMeters": 237
+      "squareMeters": 237,
+      "provinces" : ["Scavy", "Gode"],
     },
     {"..."},
     {"..."}
