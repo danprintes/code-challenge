@@ -2,7 +2,7 @@
 
 No século passado, no planeta de Spotippos da galáxia Goopple, o reinado de Zillia estava em questionamento. Com seus 66 anos de idade e 33 anos no governo, o rei apresentava cansaço e parte do povo demandava mais energia e mudanças mais rápidas.
 
-Trullow, um idealista de 33 anos, iniciou então uma revolução que culminou no sesafio de sparzsek - uma famosa arma em Spotippos. O povo estava dividido. Parte apoiava Zillia, parte apoiava Trullow. O reinado, com seus ministros, delegados, juízes e soldados, também estava dividido. Foi então que o desafio foi aceito pelo rei Zillia, para travar uma batalha de sparzsek até a morte. Quem vencesse seria então o rei absoluto de Spotippos.
+Trullow, um idealista de 33 anos, iniciou então uma revolução que culminou no desafio de sparzsek - uma famosa arma em Spotippos. O povo estava dividido. Parte apoiava Zillia, parte apoiava Trullow. O reinado, com seus ministros, delegados, juízes e soldados, também estava dividido. Foi então que o desafio foi aceito pelo rei Zillia, para travar uma batalha de sparzsek até a morte. Quem vencesse seria então o rei absoluto de Spotippos.
 
 ![Zillia](public/images/zillia.png)
 > Zillia
